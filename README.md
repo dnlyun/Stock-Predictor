@@ -1,4 +1,6 @@
 # Stock-Predictor
+
+## About
 A program that can predict future stock price movement using Long short-term memory (LSTM) model.
 
 ## Data
